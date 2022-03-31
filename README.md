@@ -55,3 +55,6 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ![homepage](https://user-images.githubusercontent.com/37889335/160979492-6aadfc10-ec83-4f8d-902e-f39ed46ee178.PNG)
 
 ### Created by: Chuong Vo
+
+### Link to Heroku Live: https://agile-anchorage-61410.herokuapp.com/#about
+### Link to Github Pages Live: https://vohoang2005.github.io/react_porfolio/
