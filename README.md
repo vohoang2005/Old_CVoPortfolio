@@ -52,6 +52,6 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Image of Deploy Page
 
-
+![homepage](https://user-images.githubusercontent.com/37889335/160979492-6aadfc10-ec83-4f8d-902e-f39ed46ee178.PNG)
 
 ### Created by: Chuong Vo
