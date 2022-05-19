@@ -34,7 +34,7 @@ function Header() {
             className="navbar-item"
             rel="noreferrer"
             target="_blank"
-            href="https://github.com/EmilyNecciai?tab=repositories"
+            href="https://github.com/vohoang2005?tab=repositories"
           >
             <span className="content is-large">Chuong Vo</span>
           </a>
