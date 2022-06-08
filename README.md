@@ -1,4 +1,4 @@
-# Chuong_Vo_Portfolio
+# Chuong Vo Resume Portfolio
 # Task
 ~~~
 I want to create a Portfolio Project of myself and deploy it via GitHub Pages using my skill set in React!
