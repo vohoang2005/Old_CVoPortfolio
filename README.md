@@ -1,5 +1,4 @@
-# react_porfolio
-
+# Chuong_Vo_Portfolio
 # Task
 ~~~
 I want to create a Portfolio Project of myself and deploy it via GitHub Pages using my skill set in React!
