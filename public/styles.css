@@ -1,6 +1,23 @@
-.footer {
+
+
+footer {
+    font-weight: bolder;
     position:absolute;
     left:0;
     bottom:0;
     right:0;
+    background-color: #CDF0EA;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+.tools {
+    display: inline-block;
+}
+
+.tech {
+    background-color: #CDF0EA;
 }
