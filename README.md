@@ -17,7 +17,8 @@
 * gh-pages
 
 ## Image of Home Page
-![Home Page](https://user-images.githubusercontent.com/37889335/175719957-7d39860e-66b3-4972-8ef4-791917d288db.PNG)
+![Home Page](https://user-images.githubusercontent.com/37889335/175720012-1c1b6c70-2d1d-46c3-a41c-8a464c08e6db.PNG)
+
 
 
 ### Created by: Chuong Vo
