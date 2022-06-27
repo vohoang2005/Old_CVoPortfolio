@@ -1,5 +1,4 @@
 import React from 'react'
-import WorkImg from '../assets/css.png'
 import Blog from '../assets/Blog.png'
 import BudgetTracker from '../assets/BudgetTracker.png'
 import DrumKit from '../assets/DrumKit.png'
@@ -32,11 +31,11 @@ const Work = () => {
                             Blog Website Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'></button>
+                            <a href="https://powerful-castle-34195.herokuapp.com/">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demon</button>
                             </a>
-                            <a href="">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'></button>
+                            <a href="https://github.com/vohoang2005/Blog-Website">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
                     </div>
@@ -50,11 +49,11 @@ const Work = () => {
                             Budget Tracker Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'></button>
+                            <a href="https://obscure-hollows-57042.herokuapp.com/">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'></button>
+                            <a href="https://github.com/vohoang2005/Budget_Tracker">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
                     </div>
@@ -68,11 +67,11 @@ const Work = () => {
                             DrumKit Game
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'></button>
+                            <a href="https://vohoang2005.github.io/DrumGame/index.html">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'></button>
+                            <a href="https://github.com/vohoang2005/DrumGame">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
                     </div>
@@ -86,11 +85,11 @@ const Work = () => {
                             Managing AC Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'></button>
+                            <a href="https://maintainable.herokuapp.com/">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'></button>
+                            <a href="https://github.com/vohoang2005/maintainable">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
                     </div>
@@ -104,11 +103,11 @@ const Work = () => {
                             Password Generator Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'></button>
+                            <a href="https://vohoang2005.github.io/Password-Generator/">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'></button>
+                            <a href="https://github.com/vohoang2005/Password-Generator">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
                     </div>
@@ -122,11 +121,11 @@ const Work = () => {
                             Quiz Game
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'></button>
+                            <a href="https://vohoang2005.github.io/Web-APIs-Questionaire/">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'></button>
+                            <a href="https://github.com/vohoang2005/Web-APIs-Questionaire">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
                     </div>
@@ -140,11 +139,11 @@ const Work = () => {
                             Randm Dating Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'></button>
+                            <a href="https://ran-dm.herokuapp.com/login">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'></button>
+                            <a href="https://github.com/vohoang2005/randm">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
                     </div>
@@ -158,11 +157,11 @@ const Work = () => {
                             Simon Game
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'></button>
+                            <a href="https://vohoang2005.github.io/SimonGame/">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'></button>
+                            <a href="https://github.com/vohoang2005/SimonGame">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
                     </div>
@@ -176,11 +175,11 @@ const Work = () => {
                             To Do List Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'></button>
+                            <a href="https://evening-beyond-44336.herokuapp.com/">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="">
-                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'></button>
+                            <a href="https://github.com/vohoang2005/ToDoList">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
                     </div>
